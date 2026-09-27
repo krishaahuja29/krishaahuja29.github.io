@@ -1,20 +1,61 @@
 # Krisha Ahuja — Portfolio
 
-A responsive personal portfolio for GitHub Pages.
+Welcome to my personal portfolio website.
 
-## Included
-- `index.html` — portfolio content
-- `style.css` — responsive visual design
-- `script.js` — navigation, scroll progress and reveal animations
-- `resume.pdf` — latest resume supplied by Krisha
-- `README.md` — deployment notes
+I'm a Computer Science Engineering student interested in **AI/ML, Full Stack Development, and Problem Solving**.
 
-## Publish with GitHub Pages
-1. Create a public GitHub repository named `portfolio`.
-2. Upload all files in this folder to the repository root.
-3. Go to **Settings → Pages**.
-4. Choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`, then Save.
-6. GitHub will provide the live Pages URL.
+## 🌐 Live Portfolio
 
-After the site is live, add that URL to the resume header and Devnovate profile.
+**[Visit my portfolio](https://krishaahuja29.github.io/)**
+
+## 👩‍💻 About
+
+This portfolio showcases my:
+
+- AI/ML projects
+- Full Stack Development projects
+- Technical skills
+- Learning journey
+- Projects and experience
+- Resume and professional profiles
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- React
+- Node.js
+- Machine Learning
+- Deep Learning
+- GitHub Pages
+
+## 🚀 Featured Projects
+
+### NeuroBot
+EEG-based brain-computer interface project focused on recognizing intended human movement from EEG signals.
+
+### AgriVision
+AI-powered crop yield prediction and optimization platform using machine learning, weather data and soil information.
+
+### Face Recognition Attendance System
+A Python-based attendance system using computer vision and face recognition.
+
+### Invoice Generator
+A web-based invoice generation application.
+
+## 🔗 Connect With Me
+
+- **Portfolio:** https://krishaahuja29.github.io/
+- **GitHub:** https://github.com/krishaahuja29
+- **LinkedIn:** https://www.linkedin.com/in/krisha-ahuja29/
+
+## 📄 Resume
+
+My latest resume is available through my portfolio website.
+
+---
+
+⭐ Thank you for visiting my profile!
